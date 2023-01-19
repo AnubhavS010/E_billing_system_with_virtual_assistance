@@ -1,6 +1,7 @@
-// Password : 8055
+// PASSWORD: 8055
 // The code given below can also generate voice as a part of virtual assistance if you have downloaded "Espeak" application in the folder where you have saved this code.
 // Some part of the code is commented , those lines are to generate the voice , if left uncommented , run time error will be thrown.
+// Some headerfiles may not be supported by the old IDEs , Recommended IDE : VS Studio code.
 
   
 
